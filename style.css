@@ -1,14 +1,7 @@
-<style>
-  .pink{
-    color: pink;
-    font-size:25px;
-  }
-</style>
-
-body {
-  background: rbg(0, 0, 0);
-  background: radial-gradient(circle, rgba(196, 43, 43, 0.5) 0%, rgb(220, 104, 182) 100%);
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin-top: 50px;
+body{
+    background: rbg;
+    background: radial-gradient;
+    font-family: Arial, sans-serif;
+    test-align: center;
+    margin-top: 50;
 }
